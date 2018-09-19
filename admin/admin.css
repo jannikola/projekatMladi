@@ -1,0 +1,27 @@
+body{
+  background-color: #ccffcc;
+  font-family: 'Oswald', sans-serif;
+}
+form{
+  padding:30px;
+  margin:auto;
+  border-radius: 50px;
+  width:500px;
+  background-color: 
+
+  #e6ffe6;
+}
+form input{
+  border-radius: 10px;
+}
+form select{
+  border-radius: 10px;
+}
+form button{
+  border-radius: 10px;
+}
+textarea {
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+  }
